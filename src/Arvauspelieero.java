@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 public class Arvauspelieero {
     public static void main(String[] args) {
+    	/// Scanneri käyttäjänsyötettä varten.
         Scanner in = new Scanner(System.in);
         int guessCount = 0;
-
+        
         System.out.println("Guess my name (type stop to exit)");
         String guess;
 
