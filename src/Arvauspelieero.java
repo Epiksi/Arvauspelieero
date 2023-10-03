@@ -37,5 +37,5 @@ public class Arvauspelieero {
         }while(true);
         
         System.out.println("You guessed " + guessCount + " times.");
-        System.out.println("Thank you for playing!");
+        System.out.println("Thank you for playing! Please come again!");
 }}
